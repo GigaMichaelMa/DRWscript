@@ -10,7 +10,7 @@ driver.get("https://boards.greenhouse.io/drweng/jobs/1795561?gh_src=63484a9c1")
 
 # driver.find_element_by_id("first_name").send_keys("Ebony")
 # driver.find_element_by_id("last_name").send_keys("Moore")
-# driver.find_element_by_id("email").send_keys("PUT OUR EMAIL HERE")
+# driver.find_element_by_id("email").send_keys("workfreerhack@gmail.com")
 # driver.find_element_by_id("job_application_location").send_keys("Ebony")
 # driver.find_element_by_id("phone").send_keys("Ebony")
 # # resume_attatch = driver.find_element_by_xpath(
